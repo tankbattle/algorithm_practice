@@ -1,6 +1,8 @@
-#include<iostream.h>
-#include<assert.h>
-#include<math.h>
+#include <iostream>
+#include <assert.h>
+#include <cmath>
+
+using namespace std;
 
 const int MAX = 128;
 const int WIN = 1, LOSE = -1 , UNKNOWN = 0;
